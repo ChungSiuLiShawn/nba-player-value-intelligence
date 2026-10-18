@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1790228339789,
+      "tag": "0000_vengeful_tag",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1790238254807,
+      "tag": "0001_supreme_gideon",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1790254340023,
+      "tag": "0002_dusty_firebird",
+      "breakpoints": true
+    }
+  ]
+}
